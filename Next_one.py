@@ -1,2 +1,1 @@
 print("Text")
-print('ssss')
